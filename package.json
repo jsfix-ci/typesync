@@ -50,7 +50,7 @@
   "dependencies": {
     "awilix": "^4.2.7",
     "axios": "^0.21.0",
-    "chalk": "^4.1.0",
+    "chalk": "^5.0.1",
     "cosmiconfig": "^7.0.0",
     "detect-indent": "^6.0.0",
     "glob": "^7.1.4",
